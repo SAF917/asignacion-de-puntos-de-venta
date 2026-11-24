@@ -1,0 +1,14 @@
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\bin\Debug\net8.0-windows\AsignacionPuestosUni.exe
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\bin\Debug\net8.0-windows\AsignacionPuestosUni.deps.json
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\bin\Debug\net8.0-windows\AsignacionPuestosUni.runtimeconfig.json
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\bin\Debug\net8.0-windows\AsignacionPuestosUni.dll
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\bin\Debug\net8.0-windows\AsignacionPuestosUni.pdb
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\obj\Debug\net8.0-windows\AsignacionPuestosUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\obj\Debug\net8.0-windows\AsignacionPuestosUni.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\obj\Debug\net8.0-windows\AsignacionPuestosUni.AssemblyInfo.cs
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\obj\Debug\net8.0-windows\AsignacionPuestosUni.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\obj\Debug\net8.0-windows\AsignacionPuestosUni.dll
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\obj\Debug\net8.0-windows\refint\AsignacionPuestosUni.dll
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\obj\Debug\net8.0-windows\AsignacionPuestosUni.pdb
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\obj\Debug\net8.0-windows\AsignacionPuestosUni.genruntimeconfig.cache
+C:\Users\sebas\Desktop\Proyectos\herramientas de programacion\Ventas-Uni\AsignacionPuestosUni\obj\Debug\net8.0-windows\ref\AsignacionPuestosUni.dll

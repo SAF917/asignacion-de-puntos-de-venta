@@ -1,0 +1,6 @@
+E|1021922964|Sebastian|Arango|Software
+E|1021222|otro|xd|otro ahi
+E|102425|mujer|otro|otro
+P|01|bloque 1|venta de papas|Ocupado
+P|02|bloque 4|ventas|Disponible
+S|1021922964|01|Aprobada|2026-11-24T18:27:33.6437824-05:00
